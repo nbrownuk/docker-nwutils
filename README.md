@@ -30,7 +30,7 @@ Address: 52.200.132.201
 Alternatively, the default `CMD` instruction can be overridden on container invocation:
 
 ```
-$ docker container run --rm nwutils dig docker.io @google-public-dns-a.google.com
+$ docker container run --rm nbrown/nwutils dig docker.io @google-public-dns-a.google.com
 
 ; <<>> DiG 9.11.1-P1 <<>> docker.io @google-public-dns-a.google.com
 ;; global options: +cmd

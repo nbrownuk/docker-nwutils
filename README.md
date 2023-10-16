@@ -1,10 +1,10 @@
 # Tags and respective `Dockerfile` links
 
-- [`3.15.1`, `3.15`, `3`, `latest` *(3.15.1/Dockerfile)*](https://github.com/nbrownuk/docker-nwutils/blob/master/Dockerfile)
+- [`3.15.10`, `3.15`, `3`, `latest` *(3.15.10/Dockerfile)*](https://github.com/nbrownuk/docker-nwutils/blob/master/Dockerfile)
 
 # What is this image?
 
-This image contains various network utilities and tools. More specifically, it contains the tools incorporated in the Alpine Linux [bind-tools](https://pkgs.alpinelinux.org/contents?branch=edge&name=bind-tools&arch=x86_64&repo=main) and [net-tools](https://pkgs.alpinelinux.org/contents?branch=v3.6&name=net-tools&arch=x86_64&repo=main) packages.
+This image contains various network utilities and tools. More specifically, it contains the tools incorporated in the Alpine Linux [bind-tools](https://pkgs.alpinelinux.org/contents?branch=edge&name=bind-tools&arch=x86_64&repo=main) and [net-tools](https://pkgs.alpinelinux.org/contents?branch=edge&name=net-tools&arch=x86_64&repo=main) packages.
 
 # How to use this image
 

@@ -1,6 +1,6 @@
 # Tags and respective `Dockerfile` links
 
-- [`3.17.5`, `3.17`, `3`, `latest` *(3.17.5/Dockerfile)*](https://github.com/nbrownuk/docker-nwutils/blob/master/Dockerfile)
+- [`3.18.4`, `3.18`, `3`, `latest` *(3.18.4/Dockerfile)*](https://github.com/nbrownuk/docker-nwutils/blob/master/Dockerfile)
 
 # What is this image?
 
